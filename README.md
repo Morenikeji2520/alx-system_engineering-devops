@@ -1,2 +1,1 @@
-current_working_directory
-
+a script that prints "Hello,World"
